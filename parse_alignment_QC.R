@@ -22,3 +22,4 @@ for (i in 1:length(li)) {
   
 }
 write.csv(summary_alignment_QC_all_samples,"../QC/alignment_QC_summary.csv",row.names = F)
+

@@ -18,3 +18,5 @@ all_stats=rbind("__total_sequenced_counts"=total_sequenced_reads,all_stats)
 write.csv(cbind(gene_id=rownames(htseq_counts),htseq_counts),"all_samples_gencodevM27.counts.csv",quote = F,row.names = F)
 
 all_stats["__total_gene_counts",]/all_stats["__no_feature",]
+#dir.create("../htseq_count_data/count_matrix")
+write.csv(t(all_stats),"../QC/htseq_stats.csv")
