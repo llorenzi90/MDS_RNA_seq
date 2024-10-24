@@ -1,0 +1,19 @@
+#load modules and set tool paths
+
+#fastqc
+module load fastqc/0.11.8
+#trimgalore (cutadapt necessary)
+module load conda
+conda activate cutadaptenv
+trim_galore="/home/llorenzi/TrimGalore-0.6.6/trim_galore"
+#bowtie2
+bowtie2="/home/llorenzi/bowtie2-2.4.2-linux-x86_64/bowtie2"
+#deeptools
+module load conda/current
+conda activate deeptoolsenv
+#picard
+PATH=/home/llorenzi/jdk-16.0.1/bin:$PATH
+export PATH
+picard="/home/llorenzi/picard.jar"
+#samtools
+module load samtools/1.9 

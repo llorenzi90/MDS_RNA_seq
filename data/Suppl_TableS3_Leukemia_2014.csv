@@ -1,0 +1,105 @@
+Pathway,Gene,Ontology,GOID,Reference
+Chromatin modification,ARID1B,chromatin modification,GO:0016568, 
+Chromatin modification,ASH1L,chromatin modification,GO:0016568, 
+Chromatin modification,ASXL1,-,-,J ClinOncol. 2011 20;29(18):2499-506.
+Chromatin modification,ATRX,-,-,"Eur J Haematol. 2006; 76(5):432-5, 453. "
+Chromatin modification,DNMT3B,chromatin modification,GO:0016568, 
+Chromatin modification,DOT1L,chromatin modification,GO:0016568, 
+Chromatin modification,EZH2,chromatin modification,GO:0016568, 
+Chromatin modification,KDM6A,chromatin modification,GO:0016568, 
+Chromatin modification,PHF8,-,-,Nucleic Acids Res. 2012; 40(19):9429-40.
+Chromatin modification,SETD2,chromatin modification,GO:0016568, 
+Cohesin,CDCA5,chromosome segregation,GO:0007059, 
+Cohesin,CTCF,chromosome segregation,GO:0007059, 
+Cohesin,ESCO2,-,-,Annu Rev Genet. 2009; 43:525-58.
+Cohesin,NIPBL,chromosome segregation,GO:0007059, 
+Cohesin,PDS5B,chromosome segregation,GO:0007059, 
+Cohesin,PTTG1,chromosome segregation,GO:0007059, 
+Cohesin,RAD21,chromosome segregation,GO:0007059,Cell. 2012; 20;150(2):264-78.
+Cohesin,SMC1A,chromosome segregation,GO:0007059,Cell. 2012; 20;150(2):264-78.
+Cohesin,SMC1B,-,-,Annu Rev Genet. 2009; 43:525-58.
+Cohesin,SMC3,chromosome segregation,GO:0007059,Cell. 2012; 20;150(2):264-78.
+Cohesin,STAG1,chromosome segregation,GO:0007059, 
+Cohesin,STAG2,chromosome segregation,GO:0007059,Cell. 2012; 20;150(2):264-78.
+Cohesin,STAG3,chromosome segregation,GO:0007059, 
+Cohesin,WAPAL,-,-,Annu Rev Genet. 2009; 43:525-58.
+DNA methylation,DNMT3A,-,-,Nat Rev Cancer. 2012; 12(9):599-612
+DNA methylation,IDH1,-,-,Nat Rev Cancer. 2012; 12(9):599-612
+DNA methylation,IDH2,-,-,Nat Rev Cancer. 2012; 12(9):599-612
+DNA methylation,TET2,-,-,Nat Rev Cancer. 2012; 12(9):599-612
+DNArepair,ATM,DNA repair,GO:0006281, 
+DNArepair,BRCA1,DNA repair,GO:0006281, 
+DNArepair,BRCC3,DNA repair,GO:0006281, 
+DNArepair,DCLRE1C,DNA repair,GO:0006281, 
+DNArepair,FANCA,DNA repair,GO:0006281, 
+DNArepair,FANCB,DNA repair,GO:0006281, 
+DNArepair,FANCD2,DNA repair,GO:0006281, 
+DNArepair,FANCE,DNA repair,GO:0006281, 
+DNArepair,FANCF,DNA repair,GO:0006281, 
+DNArepair,FANCG,DNA repair,GO:0006281, 
+DNArepair,FANCI,DNA repair,GO:0006281, 
+DNArepair,FANCL,DNA repair,GO:0006281, 
+DNArepair,FANCM,DNA repair,GO:0006281, 
+DNArepair,MLH3,DNA repair,GO:0006281, 
+DNArepair,MRE11A,DNA repair,GO:0006281, 
+DNArepair,MSH6,DNA repair,GO:0006281, 
+DNArepair,RFC1,DNA repair,GO:0006281, 
+Other,ABCG8,-,-, 
+Other,ALAS2,hemopoietic or lymphoid organ development,GO:0048534, 
+Other,CRKL,hemopoietic or lymphoid organ development,GO:0048534, 
+Other,ELANE,-,-, 
+Other,GNB1,-,-, 
+Other,GRID1,-,-, 
+Other,LAMB4,cell adhesion,GO:0007155, 
+Other,MED12,-,-, 
+Other,PIGA,-,-, 
+Other,SLC25A38,hemopoietic or lymphoid organ development,GO:0048534, 
+RAS pathway,BRAF,negative regulation of cellular process,GO:0048523, 
+RAS pathway,CBL,-,-,Nature. 2009; 13;460(7257):904-8
+RAS pathway,CBLB,negative regulation of cellular process,GO:0048523, 
+RAS pathway,KRAS,negative regulation of cellular process,GO:0048523, 
+RAS pathway,NF1,negative regulation of cellular process,GO:0048523, 
+RAS pathway,NRAS,negative regulation of cellular process,GO:0048523, 
+RAS pathway,PTPN11,negative regulation of cellular process,GO:0048523, 
+Receptors/Kinases,FBXW7,-,-,Haematologica. 2011; 96(12):1808-14
+Receptors/Kinases,FLT3,cell surface receptor linked signal transduction,GO:0007166, 
+Receptors/Kinases,GNAS,-,-,J Clin Endocrinol Metab. 2012; 97(7):2404-13
+Receptors/Kinases,GPRC5A,-,-,Cancer Biol Ther. 2009; 8(10):951-62
+Receptors/Kinases,JAK2,cell surface receptor linked signal transduction,GO:0007166, 
+Receptors/Kinases,KDR,cell surface receptor linked signal transduction,GO:0007166, 
+Receptors/Kinases,KIT,cell surface receptor linked signal transduction,GO:0007166, 
+Receptors/Kinases,MPL,cell surface receptor linked signal transduction,GO:0007166, 
+Receptors/Kinases,NOTCH1,cell surface receptor linked signal transduction,GO:0007166, 
+Receptors/Kinases,NOTCH2,cell surface receptor linked signal transduction,GO:0007166, 
+Receptors/Kinases,PTPRD,cell surface receptor linked signal transduction,GO:0007166, 
+Receptors/Kinases,PTPRT,cell surface receptor linked signal transduction,GO:0007166, 
+Splicing,LUC7L2,-,-,Blood. 2012; 5;119(14):3203-10. 
+Splicing,PRPF40B,RNA splicing,GO:0008380, 
+Splicing,PRPF8,RNA splicing,GO:0008380, 
+Splicing,SF1,RNA splicing,GO:0008380, 
+Splicing,SF3A1,RNA splicing,GO:0008380, 
+Splicing,SF3A3,RNA splicing,GO:0008380, 
+Splicing,SF3B1,RNA splicing,GO:0008380, 
+Splicing,SF3B14,RNA splicing,GO:0008380, 
+Splicing,SRRM1,RNA splicing,GO:0008380, 
+Splicing,SRSF2,-,-,Nature. 2011; 11;478(7367):64-9
+Splicing,U2AF1,RNA splicing,GO:0008380, 
+Splicing,U2AF2,RNA splicing,GO:0008380, 
+Splicing,ZRSR2,RNA splicing,GO:0008380, 
+Transcription,BCOR,transcription regulator activity,GO:0030528,Haematologica. 2012; 97(1):3-5
+Transcription,BCORL1,-,-,Haematologica. 2012; 97(1):3-5
+Transcription,CEBPA,transcription regulator activity,GO:0030528, 
+Transcription,ETV6,transcription regulator activity,GO:0030528, 
+Transcription,GATA1,transcription regulator activity,GO:0030528, 
+Transcription,GATA2,transcription regulator activity,GO:0030528, 
+Transcription,HIF1A,transcription regulator activity,GO:0030528, 
+Transcription,IRF1,transcription regulator activity,GO:0030528,Science. 1993; 12;259(5097):968-71.
+Transcription,NCOR1,transcription regulator activity,GO:0030528, 
+Transcription,NCOR2,transcription regulator activity,GO:0030528, 
+Transcription,NPM1,transcription regulator activity,GO:0030528, 
+Transcription,PHF6,-,-,Nat Genet. 2010; 42(4):338-42. 
+Transcription,RUNX1,transcription regulator activity,GO:0030528, 
+Transcription,SMAD4,transcription regulator activity,GO:0030528, 
+Transcription,TP53,transcription regulator activity,GO:0030528, 
+Transcription,TP53BP1,transcription regulator activity,GO:0030528, 
+Transcription,WT1,transcription regulator activity,GO:0030528, 
