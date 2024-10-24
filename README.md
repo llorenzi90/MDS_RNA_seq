@@ -7,7 +7,7 @@ While it is clear that inflammatory deregulation is a hallmark of Myelodysplasti
 
 Here, we will analyze gene expression (RNA-seq), chromatin accessibility (ATAC-seq), mutations and clinical data of ~40 MDS bone marrow samples. For RNA-seq and ATAC-seq, each sample has been treated with LPS to examine their capacity of mounting an inflammatory response (so 2 libraries/patient=control and LPS). Accessibility data will be used to understand the enhancers and gene regulatory modules that are associated to each mutation,  while gene expression data is used to understand the genes that are expressed by each mutant.  
 
- 
+ ![image](https://github.com/llorenzi90/MDS_RNA_seq_analysis/blob/main/mds.png)
 
  
 
